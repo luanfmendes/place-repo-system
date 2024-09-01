@@ -6,7 +6,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@OpenAPIDefinition(info = @Info(title = "Places System API", version = "1.0", description = "Place system"))
+@OpenAPIDefinition(info = @Info(title = "Places System API", version = "2.0", description = "Place system"))
 public class PlacesApplication {
 
 	public static void main(String[] args) {
